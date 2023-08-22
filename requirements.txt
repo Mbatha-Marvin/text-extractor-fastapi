@@ -2,3 +2,4 @@ fastapi[all]
 textract
 jinja2
 black
+gunicorn
